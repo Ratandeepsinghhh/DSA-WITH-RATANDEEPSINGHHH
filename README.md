@@ -38,8 +38,16 @@ This repository is my public commitment to learning in public — I upload the a
 
 
 
+<<<<<<< HEAD
 #Contact
   Got questions, feedback, or just want to say hi?
 
   Email: [Ratandeep.singh.0601@gmail.com]
+=======
+#Contact 
+Got questions, feedback, or just want to say hi?
+
+  Email: [Ratandeep.singh.0601@gmail.com]
+  
+>>>>>>> 3282d0f8b00aafad9dcb9aab7b9134c8820192ac
   Instagram: [https://www.instagram.com/ratandeep_singhhh/]
